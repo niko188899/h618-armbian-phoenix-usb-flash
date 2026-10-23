@@ -1,1 +1,3 @@
 ec9c931025eda6e8f436c3aac10a089532f6b1d285e8bd75f659f4447091386a  H618-Armbian-USB-Flash.img
+cfb05b556d5c109d9a2776feb320be539c9931666930db0f289a9fdb91e9cbe0  H618-Armbian-USB-Flash.img.xz
+f3781574cedbd9f50c3b5bfc30e303b06aa2a300bb1b700060abea26693d89f5  H618-Armbian-Kernel-Source.tar

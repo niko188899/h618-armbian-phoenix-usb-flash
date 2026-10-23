@@ -30,7 +30,7 @@ The 256GB configuration has been tested on hardware. The 128GB configuration sti
 
 [Download the image and SHA256 checksums](https://github.com/niko188899/h618-armbian-phoenix-usb-flash/releases/tag/r11i-debian12).
 
-File: **`H618-Armbian-USB-Flash.img.xz`**, approximately 603MB. Extract it to `.img` before flashing.
+File: **`H618-Armbian-USB-Flash.img.xz`**, approximately 574MB. Extract it to `.img` before flashing.
 
 ## Flashing
 
