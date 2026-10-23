@@ -1,0 +1,12 @@
+*
+!.gitignore
+!README.md
+!README.zh-CN.md
+!RELEASE-NOTES.md
+!RELEASE-NOTES.zh-CN.md
+!ISSUE-DRAFT.md
+!ISSUE-DRAFT.zh-CN.md
+!SHA256SUMS.txt
+!assets/
+assets/*
+!assets/board-h618.jpg

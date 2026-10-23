@@ -1,0 +1,1 @@
+ec9c931025eda6e8f436c3aac10a089532f6b1d285e8bd75f659f4447091386a  H618-Armbian-USB-Flash.img
